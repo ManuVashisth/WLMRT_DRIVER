@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/manu/Downloads/Wlmrt_c++",
+    "command": "g++ -I\"/home/manu/Downloads/Wlmrt_c++/include/boost\" -O0 -g3 -Wall -c -fmessage-length\u003d0 -o \"/home/manu/Downloads/Wlmrt_c++/Debug/src/Wlmrt_DRIVER.o\" \"/home/manu/Downloads/Wlmrt_c++/src/Wlmrt_DRIVER.cpp\"",
+    "file": "/home/manu/Downloads/Wlmrt_c++/src/Wlmrt_DRIVER.cpp"
+  }
+]
